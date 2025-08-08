@@ -1,0 +1,5 @@
+    'Name': ['Arjun', 'Maya', 'Kiran', 'Ravi', 'Sita', 'Pooja', 'Manish', 'Amit'],
+    'Age': [28, 34, 25, 22, 31, None, 27, 29],
+    'Salary': [45000, 70000, 50000, 40000, 75000, 48000, None, 62000],
+    'Department': ['IT', 'HR', 'IT', 'Finance', 'HR', 'Finance', 'IT', 'Finance'],
+    'Performance Score': [85, None, 90, 88, None, 72, 95, None]
